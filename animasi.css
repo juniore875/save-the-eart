@@ -1,0 +1,55 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+
+.wrapper23{
+margin-top: 4;
+padding-bottom: 3%;
+background-color: rgb(255, 218, 173);
+}
+
+.img1{
+
+    width: 300px;
+    transition: 3s;
+    margin-left: 120px;
+}
+.jenis2{
+    padding-top: 5%;
+    padding-left: 34%;
+    font-size: 40pt;
+    text-align: justify;
+    font-family: "Ledger", serif;
+    font-weight: 500;
+    font-style: normal;
+color: rgb(1, 1, 90);
+}
+.jenis3{
+    display: flex;
+    padding-top: 5%;
+
+}
+.gaktau4{
+    border-bottom: 3px solid rgb(34, 31, 31);
+    margin-top: 20px;
+    margin-left: 120px;
+    text-align: center;
+    width: 300px;
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: "Dongle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.gaktau5{
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-left: 120px;
+    text-align: center;
+    width: 300px;
+    font-size: 15pt;
+    font-family: "Dongle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}

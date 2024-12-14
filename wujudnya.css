@@ -1,0 +1,270 @@
+html {
+    scroll-behavior: smooth;
+  }
+html,body {
+ width: 100%;
+  }
+.atas1{
+    display: flex;
+    position: absolute;
+    position: fixed;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.795);
+    padding-right: 50px;
+    padding-right: 100%;
+    z-index: 100;
+}
+
+*{
+    Margin : 0;
+    Padding : 0;
+    Text-decoration : none;
+    box-sizing: border-box;
+}
+.yakob{
+    width: 200px;
+    margin-top: 15px;
+    margin-left: 20px;
+
+}
+
+.menu{
+    text-align: center;
+    margin-top: 30px;
+    display: flex;
+    margin-left: 800px;
+}
+.m1{
+    margin-left: 25px;
+    font-size: 15pt;
+    font-family: "Ledger", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.awal{
+    width: 100%;
+}
+.background1{
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 5%;
+    border-radius: 30px;
+}
+.haljudul{
+    display: flex;
+    position: absolute;
+}
+.judul{
+    font-size: 30pt;
+    color: black;
+    margin-left: 5%;
+    font-family: "Ledger", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.subjudul{
+    margin-top: 6%;
+    margin-left: 50%;
+    margin-right: 5%;
+    background: none;
+    z-index: 10;
+    position: absolute;
+    border-bottom: 10px solid orange;
+}
+.fitur2{
+    width: 200px;
+    margin-top: 17%;
+    position: absolute;
+    margin-left: 55%;
+}
+
+.subfitur1:hover{
+    color: black;
+    filter: brightness(60%);
+
+}
+.gambarsubfitur{
+ width: 90%;
+ position: absolute;
+background-color: black;
+border-radius: 10px;
+}
+.sumber{
+    position: absolute;
+    z-index: 10;
+    padding-top: 25%;
+    margin-left: 27%;
+    color: white;
+}
+.sumber:hover{
+    position: absolute;
+    z-index: 10;
+    padding-top: 24%;
+    margin-left: 27%;
+    color: white;
+    padding-bottom: 20%;
+}
+
+.fitur3{
+    width: 200px;
+    margin-top: 17%;
+    position: absolute;
+    margin-left: 75%;
+}
+
+.gambarsubfitur1:hover{
+    color: black;
+    opacity: 0.9 ;
+}
+.gambarsubfitur1{
+ width: 90%;
+ position: absolute;
+background-color: black;
+border-radius: 10px;
+}
+.sumber1{
+    position: absolute;
+    z-index: 10;
+    margin-top: 25%;
+    margin-left: 27%;
+    color: white;
+}
+.page2{
+    padding-top: 25%;
+
+}
+
+.gambar1000{
+ width: 95%;
+ margin-left: 50px;
+position: absolute;
+z-index: 10;
+}
+.jenis1{
+    font-family: "Ledger", serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 35pt;
+    margin-left: 160px;
+    margin-top: 210px;
+    position: absolute;
+    z-index: 11;
+
+}
+.tulisan{
+    margin-right: 32%;
+    margin-top: 340px;
+    margin-left: 180px;
+    position: absolute;
+    font-size: 22pt;
+    text-align: justify;
+    z-index: 12;
+}
+.tulisan1{
+    margin-right: 32%;
+    margin-top: 350px;
+    margin-left: 180px;
+    position: absolute;
+    font-size: 22pt;
+    text-align: justify;
+    z-index: 12;
+}
+.page3{
+    padding-top: 40%;
+
+}
+
+
+.yakob2{
+    margin-left: 39%;
+    padding-top: 100px;
+  }
+  .yakob1{
+    width: 500px;
+    font-size: 20pt;
+    color: aliceblue;
+  }
+  .akhiran{
+    background-color: rgb(82, 82, 82);
+    width: 100%;
+    height: 600px;
+    margin-top: 50%;
+  
+  
+  }
+  .instagram{
+    display: flex;
+    width: 700px;
+    margin-left: 10px;
+  }
+  .ins{
+    width: 80px;
+    margin-left: -10px;
+  }
+  .insta1{
+    margin-left: -11px;
+    margin-top: 8px;
+    font-size: 15pt;
+    color: aliceblue;
+  }
+  .wa1{
+    margin-left: -10px;
+    margin-top: 8px;
+    font-size: 15pt;
+    width: max-content;
+    color: aliceblue;
+  }
+  .web{
+    width: 44px;
+    margin-left: 15px;
+  }
+  .web2{
+    display: flex;
+    width: 100px;
+    color: aliceblue;
+  }
+  .wa2{
+    margin-top: 8px;
+    font-size: 15pt;
+    width: max-content;
+    margin-left: 10px;
+    color: aliceblue;
+  }
+  .ins2{
+    display: flex;
+  }
+  .frans{
+    margin-left: 8%;
+    padding-top: 100px;
+  }
+  .nama{
+    display: flex;
+  }
+  .julian{
+    
+    margin-left: -250px;
+    padding-top: 100px;
+  }
+  .yakob10{
+    width: 500px;
+    font-size: 20pt;
+    color: aliceblue;
+    margin-left: 1px;
+  }
+  .frans2{
+      width: 500px;
+      font-size: 20pt;
+      color: aliceblue;
+      margin-left: 1px;
+  }
+  .ok{
+    display: flex;
+  }
+  .instagram111{
+    display: flex;
+    width: 700px;
+    margin-left: 1px;
+  }
+
